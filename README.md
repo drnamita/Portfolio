@@ -16,51 +16,55 @@ Seeking to implement a blend data science, medical and public health expereinces
 - Other: Technical writing, IRB preparation, project management
 # Data Science Projects 
 **R Projects** 
-Diabetes Prediction – NHANES (2025) 
+- Diabetes Prediction – NHANES (2025) 
 - Built regression models (binary, ordinal, nominal and Bayesian logistic) using NHANES dataset to predict diabetes status.
 - Applied multiple imputation (MICE), conducted hypothesis testing, odds ratio estimation, multicollinearity diagnostics, Cook’s distance, and ANOVA.
   Identified interaction effects (HTN × HDL), JHS Data 2025 
 - Selected nominal logistic regression model after Brant test showed proportional odds violation.
+
 **Excel**
-Electronic Health Records Data Management
-- Collaborated with PI on a non-randomized clinical trial (502 patients) (pre and post intervention) with cardiac implants and      atrial fibrillations, co-authored poster presentation (New Orleans, 2023).
+- Electronic Health Records Data Management
+- Collaborated with PI on a non-randomized clinical trial (502 patients) (pre and post intervention) with cardiac implants and atrial fibrillations, co-authored   		poster presentation (New Orleans, 2023).
 - Data collection, cleaning, storing for analysis using Excel
 - Documentaion, drafting and IRB
+
 **R Projects, SQL and Python**
 Airline Delays Analysis (2023)
 - Manipulation of airflight datasets, analysis for average arrival delays, inner_join() merge airline and flight data.
 - Use of pandas and tidyverse for data wrangling, created visualization (boxplots, bar plots)
+
 **SQL Project**
   Hospital Management (2020) - Designed Entity-Relationship Diagram using SQL to streamline hospital navigation and database efficiency.
+
 **Excel**
 Lab work on liver protein expression (OXPHOS, CD36, AMPK) (2022) expression using Bradford test and Western blot in a rat model.
-- Collected data for analysis using Excel spreadsheet. 
-**Excel Visualization**
-Obesity & Health Behaviors (2016–2018) - geo-bubble charts using Excel dashboards to visualize state-level obesity prevalence and healthcare expenditures using Excel spreadsheet.
+- Collected data for analysis using Excel spreadsheet.
+- Obesity & Health Behaviors (2016–2018) - geo-bubble charts using Excel dashboards to visualize state-level obesity prevalence and healthcare expenditures 
 **Geodata Analysis and Visualization (2025)**
-Collection and importing geodata, analyzed, plotted proportions/ counts displaying heatmaps and choropleth maps on
-1. above-ground carbon stock (State level data)
-2. electric vehicles (State level data)
-3. food access survey data on corner stores and community participation data based on NEMS design, zipcode level granularity
-4. Education attainment (18-24 years age) in Escambia County, using county level census tract and ZCTA data 
+  - ArcGIS, 3D Maps, EpiInfo
+  - Collection and importing geodata, analyzed, plotted proportions/ counts displaying heatmaps and choropleth maps on
+	1. above-ground carbon stock (State level data)
+	2. electric vehicles (State level data)
+	3. food access survey data on corner stores and community participation data based on NEMS design, zipcode level granularity
+	4. Education attainment (18-24 years age) in Escambia County, using county level census tract and ZCTA data 
  _______________________________________
 # Professional Experience
-	**Project Coordinator – Usha Kundu College of Health, Univ. of West Florida (2025–Present)**
+**Project Coordinator – Usha Kundu College of Health, Univ. of West Florida (2025–Present)**
 - Lead community health events (3D mobile mammography), collect and analyze screening data, and develop outreach materials.
-	**Project Support Specialist – UWF (2023–Present)**
+**Project Support Specialist – UWF (2023–Present)**
 - Supported HRSA-funded research: designed IRB/surveys (Qualtrics), conducted data cleaning/analysis, and presented at a public health conference.
-	**Public Health Graduate Intern – Florida Dept. of Health, Escambia (2018)**
+**Public Health Graduate Intern – Florida Dept. of Health, Escambia (2018)**
 - As a Principal Investigator designed and implemented two community-based surveys to assess food access and the neighborhood food environment.
 - Drafted IRB and consent forms, cleaned and re-coded datasets, and conducted descriptive analysis in SPSS.
 - Created data visualizations (GIS and 3D Maps) and developed a manuscript, strengthening skills in public health surveillance and policy evaluation.
-	**Otorhinolaryngology Clinical Research Resident (DNB) – Jawaharlal Nehru Hospital Research Center, India (2007–2010)**
+**Otorhinolaryngology Clinical Research Resident (DNB) – Jawaharlal Nehru Hospital Research Center, India (2007–2010)**
 - Served as Principal Investigator on a prospective study of salivary gland tumors: collected patient-level data, maintained regulatory compliance, and performed statistical analysis (descriptive, McNemar)
 - Authored a manuscript for graduate submission; results later published in peer-reviewed journals.
 - Delivered literature review on PET scan applications in ENT cancers for early cancer detection.
 - Collaborated across surgical, clinical, and lab teams, managing high-volume outpatient clinics (~60 pts/day) and inpatient procedures (~16 cases/week).
-	**Adjunct Instructor – UWF (2019–Present)**
+**Adjunct Instructor – UWF (2019–Present)**
 - Taught Human Physiology & Pharmacology to 30–100 students per class. Designed assessments, projects, and guided data-based health research.
-	**Clinical Researcher – Baptist Health Care, FL (2022–2023)**
+**Clinical Researcher – Baptist Health Care, FL (2022–2023)**
 - Collaborated on a non-randomized clinical trial (502 patients) with cardiac implants and atrial fibrillations.
 - Managed IRB, collected EHR data, cleaned for analysis, and co-authored poster presented at Heart Rhythm Society, 2023.
 ________________________________________
