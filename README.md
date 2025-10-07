@@ -24,28 +24,28 @@ ________________________________________
 - Applied multiple imputation (MICE), conducted hypothesis testing, odds ratio estimation, multicollinearity diagnostics, Cook’s distance, and ANOVA.
 2. Identified interaction effects (HTN × HDL), JHS Data 2025 
 - Selected nominal logistic regression model after Brant test showed proportional odds violation.
-3.  **Excel**
-  1. Electronic Health Records Data Management
+**Excel**
+1. Electronic Health Records Data Management
 - Collaborated with PI on a non-randomized clinical trial (502 patients) (pre and post intervention) with cardiac implants and      atrial fibrillations, co-authored poster presentation (New Orleans, 2023).
 - Data collection, cleaning, storing for analysis using Excel
 - Documentaion, drafting and IRB
-  **R Projects, SQL and Python**
+**R Projects, SQL and Python**
 1. Airline Delays Analysis (2023)
 - Manipulation of airflight datasets, analysis for average arrival delays, inner_join() merge airline and flight data.
 - Use of pandas and tidyverse for data wrangling, created visualization (boxplots, bar plots)
-  **SQL Project**
+**SQL Project**
   Hospital Management (2020) - Designed Entity-Relationship Diagram using SQL to streamline hospital navigation and database efficiency.
 **Excel**
 - Lab work on liver protein expression (OXPHOS, CD36, AMPK) (2022) expression using Bradford test and Western blot in a rat model.
 - Collected data for analysis using Excel spreadsheet. 
 **Excel Visualization**
 1. Obesity & Health Behaviors (2016–2018) - geo-bubble charts using Excel dashboards to visualize state-level obesity prevalence and healthcare expenditures using Excel spreadsheet.
-# Geodata Analysis and Visualization (2025)
+**Geodata Analysis and Visualization (2025)**
 - Collection and importing geodata, analyzed, plotted proportions/ counts displaying heatmaps and choropleth maps on
-  1. above-ground carbon stock (State level data)
-  2. electric vehicles (State level data)
-  3. food access survey data on corner stores and community participation data based on NEMS design, zipcode level granularity
-  4. Education attainment (18-24 years age) in Escambia County, using county level census tract and ZCTA data 
+1. above-ground carbon stock (State level data)
+2. electric vehicles (State level data)
+3. food access survey data on corner stores and community participation data based on NEMS design, zipcode level granularity
+4. Education attainment (18-24 years age) in Escambia County, using county level census tract and ZCTA data 
  _______________________________________
 # Professional Experience
 **Project Coordinator – Usha Kundu College of Health, Univ. of West Florida (2025–Present)**
