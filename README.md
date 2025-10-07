@@ -8,14 +8,12 @@ Seeking to implement a blend data science, medical and public health expereinces
 - Skilled in data science, biostatistics, and healthcare analytics, leveraging SAS, R, Python, SQL, and GIS for advanced modeling, data visualization, and predictive   analytics in analyzing complex datasets (NHANES, JHS, EHR).
 - Experienced in healthcare data management, population health research, and clinical trials. 
 - Published researcher with experience in cancer epidemiology, chronic disease prevention, and health disparities.  
-________________________________________
 # Technical Skills
 - Programming & Analytics: R, SAS, SPSS, SQL, Python (pandas, NumPy, matplotlib, seaborn), survey methods
 - Statistical Modeling: Logistic regression (binary, ordinal, nominal), ANOVA, multicollinearity diagnostics, survival analysis, Bayesian modeling
 - Data Visualization: ggplot2, matplotlib, seaborn, Tableau, 3D Maps, ArcGISTools
 - Platforms: SPSS, EpiInfo, Qualtrics, Electronic Health Records, GitHub
 - Other: Technical writing, IRB preparation, project management
-________________________________________
 # Data Science Projects 
 **R Projects** 
 1. Diabetes Prediction – NHANES (2025) 
