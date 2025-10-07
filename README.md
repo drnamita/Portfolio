@@ -2,13 +2,12 @@
 https://github.com/Portfolio
 Dr. Namita Mishra, MPH, MBBS/MD
 Pensacola, FL, | nmishra@uwf.edu |  GitHub | LinkedIn | e-Portfolio
-________________________________________
+Seeking to implement a blend data science, medical and public health expereinces in healthcare, pharma, or public health research projects, 
 # Professional Summary
 - Physician, public health professional, and certified data analyst with 10+ years of clinical, research, and teaching experience.
-- Skilled in data science, biostatistics, and healthcare analytics, leveraging SAS, R, Python, SQL, and GIS for advanced modeling, data visualization, and predictive analytics in analyzing complex datasets (NHANES, JHS, EHR).
+- Skilled in data science, biostatistics, and healthcare analytics, leveraging SAS, R, Python, SQL, and GIS for advanced modeling, data visualization, and predictive   analytics in analyzing complex datasets (NHANES, JHS, EHR).
 - Experienced in healthcare data management, population health research, and clinical trials. 
 - Published researcher with experience in cancer epidemiology, chronic disease prevention, and health disparities.  
-Seeking to contribute as a Data Analyst in healthcare, pharma, or public health research, applying expertise at the intersection of medicine and data science.
 ________________________________________
 # Technical Skills
 - Programming & Analytics: R, SAS, SPSS, SQL, Python (pandas, NumPy, matplotlib, seaborn), survey methods
