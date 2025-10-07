@@ -47,24 +47,19 @@ Seeking to implement a blend data science, medical and public health expereinces
 # Professional Experience
 **Project Coordinator – Usha Kundu College of Health, Univ. of West Florida (2025–Present)**
 - Lead community health events (3D mobile mammography), collect and analyze screening data, and develop outreach materials.
-
 **Project Support Specialist – UWF (2023–Present)**
 - Supported HRSA-funded research: designed IRB/surveys (Qualtrics), conducted data cleaning/analysis, and presented at a public health conference.
-
 **Public Health Graduate Intern – Florida Dept. of Health, Escambia (2018)**
 - As a Principal Investigator designed and implemented two community-based surveys to assess food access and the neighborhood food environment.
 - Drafted IRB and consent forms, cleaned and re-coded datasets, and conducted descriptive analysis in SPSS.
 - Created data visualizations (GIS and 3D Maps) and developed a manuscript, strengthening skills in public health surveillance and policy evaluation.
-
 **Otorhinolaryngology Clinical Research Resident (DNB) – Jawaharlal Nehru Hospital Research Center, India (2007–2010)**
 - Served as Principal Investigator on a prospective study of salivary gland tumors: collected patient-level data, maintained regulatory compliance, and performed statistical analysis (descriptive, McNemar)
 - Authored a manuscript for graduate submission; results later published in peer-reviewed journals.
 - Delivered literature review on PET scan applications in ENT cancers for early cancer detection.
 - Collaborated across surgical, clinical, and lab teams, managing high-volume outpatient clinics (~60 pts/day) and inpatient procedures (~16 cases/week).
-
 **Adjunct Instructor – UWF (2019–Present)**
 - Taught Human Physiology & Pharmacology to 30–100 students per class. Designed assessments, projects, and guided data-based health research.
-
 **Clinical Researcher – Baptist Health Care, FL (2022–2023)**
 - Collaborated on a non-randomized clinical trial (502 patients) with cardiac implants and atrial fibrillations.
 - Managed IRB, collected EHR data, cleaned for analysis, and co-authored poster presented at Heart Rhythm Society, 2023.
