@@ -18,27 +18,30 @@ ________________________________________
 - Other: Technical writing, IRB preparation, project management
 ________________________________________
 # Data Science Projects 
-
-1. Diabetes Prediction – NHANES (2025) **R Projects**
+**R Projects** 
+1. Diabetes Prediction – NHANES (2025) 
 - Built regression models (binary, ordinal, nominal and Bayesian logistic) using NHANES dataset to predict diabetes status.
 - Applied multiple imputation (MICE), conducted hypothesis testing, odds ratio estimation, multicollinearity diagnostics, Cook’s distance, and ANOVA.
-2. Identified interaction effects (HTN × HDL), JHS Data 2025 **R Projects**
+2. Identified interaction effects (HTN × HDL), JHS Data 2025 
 - Selected nominal logistic regression model after Brant test showed proportional odds violation.
-3. Electronic Health Records Data Management **Excel**
-- Collaborated on a non-randomized clinical trial (502 patients) (pre and post intervention) with cardiac implants and atrial fibrillations, co-authored in poster 	    presentation.
-- Managed IRB, collected Electronic Health Records, and cleaned for analysis using Excel
-4. Airline Delays Analysis (2023)**R Projects and Python**
-- In R, SAS, SQL and Python: manipulated flight datasets, calculated average arrival delays, applied inner_join() to merge airline and flight data.
-- Used pandas and tidyverse for data wrangling, created visualization (boxplots, bar plots)
-5. Hospital Management (2020) **SQL Project**
-- Designed Entity-Relationship Diagram using SQL to streamline hospital navigation and database efficiency.
-6. Western Blot Analysis – OXPHOS & CD36 (2022)**Excel**
-- Conducted lab tests (Bradford test and Western blot) in a rat model for liver protein expression (OXPHOS, CD36, AMPK). Collected data for analysis using Excel spreadsheet. 
-7. Obesity & Health Behaviors (2016–2018) **Excel Visualization**
-- Created geo-bubble charts and Excel dashboards to visualize state-level obesity prevalence and healthcare expenditures using Excel spreadsheet.
-
+3.  **Excel**
+  1. Electronic Health Records Data Management
+- Collaborated with PI on a non-randomized clinical trial (502 patients) (pre and post intervention) with cardiac implants and      atrial fibrillations, co-authored poster presentation (New Orleans, 2023).
+- Data collection, cleaning, storing for analysis using Excel
+- Documentaion, drafting and IRB
+  **R Projects, SQL and Python**
+1. Airline Delays Analysis (2023)
+- Manipulation of airflight datasets, analysis for average arrival delays, inner_join() merge airline and flight data.
+- Use of pandas and tidyverse for data wrangling, created visualization (boxplots, bar plots)
+  **SQL Project**
+  Hospital Management (2020) - Designed Entity-Relationship Diagram using SQL to streamline hospital navigation and database efficiency.
+**Excel**
+- Lab work on liver protein expression (OXPHOS, CD36, AMPK) (2022) expression using Bradford test and Western blot in a rat model.
+- Collected data for analysis using Excel spreadsheet. 
+**Excel Visualization**
+1. Obesity & Health Behaviors (2016–2018) - geo-bubble charts using Excel dashboards to visualize state-level obesity prevalence and healthcare expenditures using Excel spreadsheet.
 # Geodata Analysis and Visualization (2025)
-Collection and importing geodata, analyzed, plotted proportions/ counts displaying heatmaps and choropleth maps on
+- Collection and importing geodata, analyzed, plotted proportions/ counts displaying heatmaps and choropleth maps on
   1. above-ground carbon stock (State level data)
   2. electric vehicles (State level data)
   3. food access survey data on corner stores and community participation data based on NEMS design, zipcode level granularity
