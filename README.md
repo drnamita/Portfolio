@@ -1,9 +1,11 @@
 # Portfolio
-Dr. Namita Mishra, MPH, MBBS/MD
-Pensacola, FL, | nmishra@uwf.edu  
-- e-Portfolio
-- https://github.com/Portfolio - Github
-- dr-namita-mishra-466b0999 - LinkedIn
+Dr. Namita Mishra, MPH, MBBS/MD, Pensacola, FL
+- dr.namita9670@gmail.com  
+- e-Portfolio -https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fsites%2Egoogle%2Ecom%2Fview%2Fnamitamishra%2Fabout&urlhash=YcFX&trk=public_profile-settings_website
+- Github https://github.com/Portfolio 
+- UWF https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fircommons%2Euwf%2Eedu%2Fesploro%2Fprofile%2Fnamita_mishra&urlhash=sWpn&trk=public_profile-settings_website
+- LinkedIn https://www.linkedin.com/in/dr-namita-mishra-466b0999/ 
+
 Seeking to implement a blend data science, medical and public health expereinces in healthcare, pharma, or public health research projects, 
 # Professional Summary
 - Physician, public health professional, and certified data analyst with 10+ years of clinical, research, and teaching experience.
