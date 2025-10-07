@@ -74,19 +74,19 @@ Lab work on liver protein expression (OXPHOS, CD36, AMPK) (2022) expression usin
 - Managed IRB, collected EHR data, cleaned for analysis, and co-authored poster presented at Heart Rhythm Society, 2023.
 ________________________________________
 # Voluntary & Community Experience
-	**Health & Hope Volunteer – Pensacola, FL (Pensacola, FL)**
+**Health & Hope Volunteer – Pensacola, FL (Pensacola, FL)**
 - Assisted in providing healthcare access and support for underserved and vulnerable populations.
 - Participated in health screenings, patient navigation, and education initiatives.
 - Contributed to data collection and reporting for community health programs, aligning with goals of reducing health disparities.
-	**Health Camp Volunteer – Remote Communities (India)**
+**Health Camp Volunteer – Remote Communities (India)**
 - Provided free health services in underserved areas.
 - Conducted clinical assessments and health education sessions on prevention and early detection of chronic diseases.
 - Recognized the critical role of public health surveillance and data in guiding community health decisions.
-	**Community Health Educator – Various Programs (India)**
+**Community Health Educator – Various Programs (India)**
 - Delivered talks on cervical cancer prevention, tobacco cessation, and chronic disease prevention to low-literacy populations.
 - Educated new mothers on breastfeeding and rooming-in practices in pediatric and maternity wards.
 - Promoted awareness of oral cancers and HPV, linking clinical practice with preventive strategies.
-	**Research Mentor (Volunteer) – Univ. of West Florida (2021)**
+**Research Mentor (Volunteer) – Univ. of West Florida (2021)**
 - Mentored undergraduate students in research ethics, study design, data collection, and statistical analysis.
 - Guided students through literature reviews, technical writing, and presentation skills.
 ________________________________________
