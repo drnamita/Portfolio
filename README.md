@@ -25,20 +25,20 @@ ________________________________________
 2. Identified interaction effects (HTN × HDL), JHS Data 2025 **R Projects**
 - Selected nominal logistic regression model after Brant test showed proportional odds violation.
 3. Electronic Health Records Data Management **Excel**
-- Collaborated on a non-randomized clinical trial (502 patients) (pre and post intervention) with cardiac implants and atrial fibrillations, co-authored in poster 	presentation.
+- Collaborated on a non-randomized clinical trial (502 patients) (pre and post intervention) with cardiac implants and atrial fibrillations, co-authored in poster 	    presentation.
 - Managed IRB, collected Electronic Health Records, and cleaned for analysis using Excel
 4. Airline Delays Analysis (2023)**R Projects and Python**
 - In R, SAS, SQL and Python: manipulated flight datasets, calculated average arrival delays, applied inner_join() to merge airline and flight data.
 - Used pandas and tidyverse for data wrangling, created visualization (boxplots, bar plots)
 5. Hospital Management (2020) **SQL Project**
-•	Designed Entity-Relationship Diagram using SQL to streamline hospital navigation and database efficiency.
-5. Western Blot Analysis – OXPHOS & CD36 (2022)**Excel**
-•	Conducted lab tests (Bradford test and Western blot) in a rat model for liver protein expression (OXPHOS, CD36, AMPK). Collected data for analysis using Excel spreadsheet. 
-6. Obesity & Health Behaviors (2016–2018) **Excel Visualization**
-•	Created geo-bubble charts and Excel dashboards to visualize state-level obesity prevalence and healthcare expenditures using Excel spreadsheet.
+- Designed Entity-Relationship Diagram using SQL to streamline hospital navigation and database efficiency.
+6. Western Blot Analysis – OXPHOS & CD36 (2022)**Excel**
+- Conducted lab tests (Bradford test and Western blot) in a rat model for liver protein expression (OXPHOS, CD36, AMPK). Collected data for analysis using Excel spreadsheet. 
+7. Obesity & Health Behaviors (2016–2018) **Excel Visualization**
+- Created geo-bubble charts and Excel dashboards to visualize state-level obesity prevalence and healthcare expenditures using Excel spreadsheet.
 
 # Geodata Analysis and Visualization (2025)
-- Collection and importing geodata, analyzed, plotted proportions/ counts displaying heatmaps and choropleth maps on
+Collection and importing geodata, analyzed, plotted proportions/ counts displaying heatmaps and choropleth maps on
   1. above-ground carbon stock (State level data)
   2. electric vehicles (State level data)
   3. food access survey data on corner stores and community participation data based on NEMS design, zipcode level granularity
@@ -65,19 +65,19 @@ ________________________________________
 - Managed IRB, collected EHR data, cleaned for analysis, and co-authored poster presented at Heart Rhythm Society, 2023.
 ________________________________________
 # Voluntary & Community Experience
-Health & Hope Volunteer – Pensacola, FL (Year[s])
+**Health & Hope Volunteer – Pensacola, FL (Pensacola, FL)**
 - Assisted in providing healthcare access and support for underserved and vulnerable populations.
 - Participated in health screenings, patient navigation, and education initiatives.
 - Contributed to data collection and reporting for community health programs, aligning with goals of reducing health disparities.
-Health Camp Volunteer – Remote Communities (India)
+**Health Camp Volunteer – Remote Communities (India)**
 - Provided free health services in underserved areas.
 - Conducted clinical assessments and health education sessions on prevention and early detection of chronic diseases.
 - Recognized the critical role of public health surveillance and data in guiding community health decisions.
-Community Health Educator – Various Programs (India)
+**Community Health Educator – Various Programs (India)**
 - Delivered talks on cervical cancer prevention, tobacco cessation, and chronic disease prevention to low-literacy populations.
 - Educated new mothers on breastfeeding and rooming-in practices in pediatric and maternity wards.
 - Promoted awareness of oral cancers and HPV, linking clinical practice with preventive strategies.
-Research Mentor (Volunteer) – Univ. of West Florida (2021)
+**Research Mentor (Volunteer) – Univ. of West Florida (2021)**
 - Mentored undergraduate students in research ethics, study design, data collection, and statistical analysis.
 - Guided students through literature reviews, technical writing, and presentation skills.
 ________________________________________
