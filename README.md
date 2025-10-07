@@ -29,7 +29,7 @@ Seeking to implement a blend data science, medical and public health expereinces
 - Documentaion, drafting and IRB
 
 **R Projects, SQL and Python**
-Airline Delays Analysis (2023)
+- Airline Delays Analysis (2023)
 - Manipulation of airflight datasets, analysis for average arrival delays, inner_join() merge airline and flight data.
 - Use of pandas and tidyverse for data wrangling, created visualization (boxplots, bar plots)
 
