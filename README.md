@@ -40,13 +40,18 @@ Airline Delays Analysis (2023)
 Lab work on liver protein expression (OXPHOS, CD36, AMPK) (2022) expression using Bradford test and Western blot in a rat model.
 - Collected data for analysis using Excel spreadsheet.
 - Obesity & Health Behaviors (2016–2018) - geo-bubble charts using Excel dashboards to visualize state-level obesity prevalence and healthcare expenditures 
+
 **Geodata Analysis and Visualization (2025)**
   - ArcGIS, 3D Maps, EpiInfo
   - Collection and importing geodata, analyzed, plotted proportions/ counts displaying heatmaps and choropleth maps on
 	1. above-ground carbon stock (State level data)
 	2. electric vehicles (State level data)
 	3. food access survey data on corner stores and community participation data based on NEMS design, zipcode level granularity
-	4. Education attainment (18-24 years age) in Escambia County, using county level census tract and ZCTA data 
+	4. Education attainment (18-24 years age) in Escambia County, using county level census tract and ZCTA data
+
+**SPSS**
+- Entered community based participatory survey data and corner sotr data into SPSS
+- Cleaned, recoded, factored and analyzed for descriptive and cross-tabulation result outputs 
  _______________________________________
 # Professional Experience
 **Project Coordinator – Usha Kundu College of Health, Univ. of West Florida (2025–Present)**
