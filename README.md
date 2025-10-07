@@ -5,9 +5,7 @@ Pensacola, FL, | nmishra@uwf.edu |  GitHub | LinkedIn | e-Portfolio
 ________________________________________
 # Professional Summary
 - Physician, public health professional, and certified data analyst with 10+ years of clinical, research, and teaching experience.
-- 
 - Skilled in data science, biostatistics, and healthcare analytics, leveraging SAS, R, Python, SQL, and GIS for advanced modeling, data visualization, and predictive analytics in analyzing complex datasets (NHANES, JHS, EHR).
-- 
 - Experienced in healthcare data management, population health research, and clinical trials. 
 - Published researcher with experience in cancer epidemiology, chronic disease prevention, and health disparities.  
 Seeking to contribute as a Data Analyst in healthcare, pharma, or public health research, applying expertise at the intersection of medicine and data science.
@@ -24,8 +22,8 @@ Diabetes Prediction – NHANES, JHS Data (2025)
 •	Built regression models (binary, ordinal, nominal and Bayesian logistic) using NHANES dataset to predict diabetes status.
 •	Applied multiple imputation (MICE), conducted hypothesis testing, odds ratio estimation, multicollinearity diagnostics, Cook’s distance, and ANOVA.
 •	Identified interaction effects (HTN × HDL). Selected nominal logistic regression model after Brant test showed proportional odds violation.
-Geodata Analysis and Visualization (2025)
-•	Managed geodata, analyzed and calculated proportions, and presented heat and choropleth maps on above-ground carbon stock, electric vehicles, and food access geo datasets.
+	Geodata Analysis and Visualization (2025)
+•	Managed geodata, analyzed and calculated proportions, and presented heat and choropleth maps on above-ground carbon stock, electric vehicles, and food access geo 	datasets.
 Electronic Health Records Data Management
 •	Collaborated on a non-randomized clinical trial (502 patients) (pre and post intervention) with cardiac implants and atrial fibrillations, co-authored in poster presentation.
 •	Managed IRB, collected Electronic Health Records, and cleaned for analysis using Excel
