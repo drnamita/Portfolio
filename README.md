@@ -59,7 +59,14 @@ Lab work on liver protein expression (OXPHOS, CD36, AMPK) (2022) expression usin
 
 **SPSS**
 - Entered community based participatory survey data and corner sotr data into SPSS
-- Cleaned, recoded, factored and analyzed for descriptive and cross-tabulation result outputs 
+- Cleaned, recoded, factored and analyzed for descriptive and cross-tabulation result outputs
+
+**Overall project work flow topics** 
+- Posterior predictive modeling for individualized prognosis.
+- Dynamic Bayesian networks to model disease progression.
+- Causal inference with Bayesian priors to estimate intervention impact.
+- Missing data imputation and uncertainty quantification in large health datasets.
+- Translational research focused research
  _______________________________________
 # Professional Experience
 **Project Coordinator – Usha Kundu College of Health, Univ. of West Florida (2025–Present)**
